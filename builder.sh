@@ -32,7 +32,7 @@ declare -g tokenDecG
 declare -g tokenDecB
 
 readarray -t schemesFiles < <(find "$schemesPath" -type f -iname '*.yaml')
-readarray -t necessaryTokensPaletteList < <(grep -oP '\{\{\K[^}]+(?=\}\})' "$bodyFileTemplate" | awk -F'.' '{print $1}' | sort -u)
+readarray -t necessaryTokensPaletteList < <(grep -oP '\{\{\K[^}]+(?=\}\})' "$bodyFileTemplate" | awk -F'-' '{print $1}' | sort -u)
 
 function getProperty() {
 	yq -oy "$schemeFile" | yq -o=json -r ".$1"
@@ -114,22 +114,20 @@ for schemeFile in "${schemesFiles[@]}"; do
 				--arg tokenDecG "$tokenDecG" \
 				--arg tokenDecB "$tokenDecB" \
 				'{
-					($tokenName): { 
-						"hex": $tokenHex,
-						"bgr": $tokenBgr,
-						"hex-r": $tokenHexR,
-						"hex-g": $tokenHexG,
-						"hex-b": $tokenHexB,
-						"rgb-r": $tokenRgbR,
-						"rgb-g": $tokenRgbG,
-						"rgb-b": $tokenRgbB,
-						"rgb16-r": $tokenRgb16R,
-						"rgb16-g": $tokenRgb16G,
-						"rgb16-b": $tokenRgb16B,
-						"dec-r": $tokenDecR,
-						"dec-g": $tokenDecG,
-						"dec-b": $tokenDecB
-					},
+					($tokenName + "-hex"): $tokenHex, 
+					($tokenName + "-bgr"): $tokenBgr,
+					($tokenName + "-hex-r"): $tokenHexR,
+					($tokenName + "-hex-g"): $tokenHexG,
+					($tokenName + "-hex-b"): $tokenHexB,
+					($tokenName + "-rgb-r"): $tokenRgbR,
+					($tokenName + "-rgb-g"): $tokenRgbG,
+					($tokenName + "-rgb-b"): $tokenRgbB,
+					($tokenName + "-rgb16-r"): $tokenRgb16R,
+					($tokenName + "-rgb16-g"): $tokenRgb16G,
+					($tokenName + "-rgb16-b"): $tokenRgb16B,
+					($tokenName + "-dec-r"): $tokenDecR,
+					($tokenName + "-dec-g"): $tokenDecG,
+					($tokenName + "-dec-b"): $tokenDecB
 				}'
 		)
 

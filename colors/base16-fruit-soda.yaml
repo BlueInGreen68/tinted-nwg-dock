@@ -1,0 +1,25 @@
+/*
+*
+* name: Fruit Soda
+* author: jozip
+* slug: fruit-soda
+* slug-underscored: fruit_soda
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f1ecf1;
+    border-color: #2931df;
+}
+
+button,
+image {
+    color: #979598;
+}
+
+button:hover {
+    background-color: rgba(45, 44, 44, 0.4);
+}
