@@ -1,0 +1,25 @@
+/*
+*
+* name: Cupcake
+* author: Chris Kempson (http://chriskempson.com)
+* slug: cupcake
+* slug-underscored: cupcake
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fbf1f2;
+    border-color: #7297B9;
+}
+
+button,
+image {
+    color: #a59daf;
+}
+
+button:hover {
+    background-color: rgba(88, 80, 98, 0.15);
+}

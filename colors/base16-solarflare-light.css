@@ -1,0 +1,25 @@
+/*
+*
+* name: Solar Flare Light
+* author: Chuck Harmston (https://chuck.harmston.ch)
+* slug: solarflare-light
+* slug-underscored: solarflare_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #F5F7FA;
+    border-color: #33B5E1;
+}
+
+button,
+image {
+    color: #667581;
+}
+
+button:hover {
+    background-color: rgba(24, 38, 47, 0.15);
+}

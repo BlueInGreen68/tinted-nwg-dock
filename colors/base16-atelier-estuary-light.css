@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Estuary Light
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-estuary-light
+* slug-underscored: atelier_estuary_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f4f3ec;
+    border-color: #36a166;
+}
+
+button,
+image {
+    color: #6c6b5a;
+}
+
+button:hover {
+    background-color: rgba(34, 34, 27, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Solarized Light
+* author: Ethan Schoonover (modified by aramisgithub)
+* slug: solarized-light
+* slug-underscored: solarized_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fdf6e3;
+    border-color: #268bd2;
+}
+
+button,
+image {
+    color: #657b83;
+}
+
+button:hover {
+    background-color: rgba(0, 43, 54, 0.15);
+}

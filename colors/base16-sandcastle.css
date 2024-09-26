@@ -1,0 +1,25 @@
+/*
+*
+* name: Sandcastle
+* author: George Essig (https://github.com/gessig)
+* slug: sandcastle
+* slug-underscored: sandcastle
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #282c34;
+    border-color: #83a598;
+}
+
+button,
+image {
+    color: #928374;
+}
+
+button:hover {
+    background-color: rgba(253, 244, 193, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Material Palenight
+* author: Nate Peterson
+* slug: material-palenight
+* slug-underscored: material_palenight
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #292D3E;
+    border-color: #82AAFF;
+}
+
+button,
+image {
+    color: #8796B0;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

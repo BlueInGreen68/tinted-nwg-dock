@@ -1,0 +1,25 @@
+/*
+*
+* name: Measured Dark
+* author: Measured (https://measured.co)
+* slug: measured-dark
+* slug-underscored: measured_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #00211f;
+    border-color: #88b0da;
+}
+
+button,
+image {
+    color: #c3c3c3;
+}
+
+button:hover {
+    background-color: rgba(245, 245, 245, 0.15);
+}

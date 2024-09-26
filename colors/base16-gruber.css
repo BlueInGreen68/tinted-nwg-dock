@@ -1,0 +1,25 @@
+/*
+*
+* name: Gruber
+* author: Patel, Nimai <nimai.m.patel@gmail.com>, colors from www.github.com/rexim/gruber-darker-theme
+* slug: gruber
+* slug-underscored: gruber
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #181818;
+    border-color: #96a6c8;
+}
+
+button,
+image {
+    color: #e4e4ef;
+}
+
+button:hover {
+    background-color: rgba(228, 228, 239, 0.15);
+}

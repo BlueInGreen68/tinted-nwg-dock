@@ -1,0 +1,25 @@
+/*
+*
+* name: Nord
+* author: arcticicestudio
+* slug: nord
+* slug-underscored: nord
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2E3440;
+    border-color: #81A1C1;
+}
+
+button,
+image {
+    color: #D8DEE9;
+}
+
+button:hover {
+    background-color: rgba(143, 188, 187, 0.15);
+}

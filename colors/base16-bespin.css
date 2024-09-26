@@ -1,0 +1,25 @@
+/*
+*
+* name: Bespin
+* author: Jan T. Sott
+* slug: bespin
+* slug-underscored: bespin
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #28211c;
+    border-color: #5ea6ea;
+}
+
+button,
+image {
+    color: #797977;
+}
+
+button:hover {
+    background-color: rgba(186, 174, 158, 0.15);
+}

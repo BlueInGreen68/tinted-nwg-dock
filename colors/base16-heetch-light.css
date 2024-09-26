@@ -1,0 +1,25 @@
+/*
+*
+* name: Heetch Light
+* author: Geoffrey Teale (tealeg@gmail.com)
+* slug: heetch-light
+* slug-underscored: heetch_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #feffff;
+    border-color: #47f9f5;
+}
+
+button,
+image {
+    color: #ddd6e5;
+}
+
+button:hover {
+    background-color: rgba(25, 1, 52, 0.15);
+}

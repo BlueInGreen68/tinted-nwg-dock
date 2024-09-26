@@ -1,0 +1,25 @@
+/*
+*
+* name: Google Dark
+* author: Seth Wright (http://sethawright.com)
+* slug: google-dark
+* slug-underscored: google_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1d1f21;
+    border-color: #3971ED;
+}
+
+button,
+image {
+    color: #b4b7b4;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Tokyo Night Storm
+* author: Michaël Ball
+* slug: tokyo-night-storm
+* slug-underscored: tokyo_night_storm
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #24283B;
+    border-color: #2AC3DE;
+}
+
+button,
+image {
+    color: #787C99;
+}
+
+button:hover {
+    background-color: rgba(213, 214, 219, 0.15);
+}

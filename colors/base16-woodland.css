@@ -1,0 +1,25 @@
+/*
+*
+* name: Woodland
+* author: Jay Cornwall (https://jcornwall.com)
+* slug: woodland
+* slug-underscored: woodland
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #231e18;
+    border-color: #88a4d3;
+}
+
+button,
+image {
+    color: #b4a490;
+}
+
+button:hover {
+    background-color: rgba(228, 212, 200, 0.15);
+}

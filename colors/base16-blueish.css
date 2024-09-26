@@ -1,0 +1,25 @@
+/*
+*
+* name: Blueish
+* author: Ben Mayoras
+* slug: blueish
+* slug-underscored: blueish
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #182430;
+    border-color: #82AAFF;
+}
+
+button,
+image {
+    color: #74AFE7;
+}
+
+button:hover {
+    background-color: rgba(143, 152, 160, 0.15);
+}

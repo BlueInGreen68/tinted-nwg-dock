@@ -1,0 +1,25 @@
+/*
+*
+* name: Equilibrium Gray Light
+* author: Carlo Abelli
+* slug: equilibrium-gray-light
+* slug-underscored: equilibrium_gray_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f1f1f1;
+    border-color: #0073b5;
+}
+
+button,
+image {
+    color: #5e5e5e;
+}
+
+button:hover {
+    background-color: rgba(27, 27, 27, 0.15);
+}

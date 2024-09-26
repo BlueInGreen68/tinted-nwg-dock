@@ -1,0 +1,25 @@
+/*
+*
+* name: Gigavolt
+* author: Aidan Swope (http://github.com/Whillikers)
+* slug: gigavolt
+* slug-underscored: gigavolt
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #202126;
+    border-color: #40bfff;
+}
+
+button,
+image {
+    color: #cad3ff;
+}
+
+button:hover {
+    background-color: rgba(242, 251, 255, 0.15);
+}

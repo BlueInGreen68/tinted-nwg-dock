@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Seaside Light
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-seaside-light
+* slug-underscored: atelier_seaside_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f4fbf4;
+    border-color: #3d62f5;
+}
+
+button,
+image {
+    color: #687d68;
+}
+
+button:hover {
+    background-color: rgba(19, 21, 19, 0.15);
+}

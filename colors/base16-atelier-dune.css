@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Dune
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-dune
+* slug-underscored: atelier_dune
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #20201d;
+    border-color: #6684e1;
+}
+
+button,
+image {
+    color: #999580;
+}
+
+button:hover {
+    background-color: rgba(254, 251, 236, 0.15);
+}

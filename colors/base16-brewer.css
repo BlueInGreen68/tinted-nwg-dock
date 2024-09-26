@@ -1,0 +1,25 @@
+/*
+*
+* name: Brewer
+* author: Timothée Poisot (http://github.com/tpoisot)
+* slug: brewer
+* slug-underscored: brewer
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0c0d0e;
+    border-color: #3182bd;
+}
+
+button,
+image {
+    color: #959697;
+}
+
+button:hover {
+    background-color: rgba(252, 253, 254, 0.15);
+}

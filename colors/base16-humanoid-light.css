@@ -1,0 +1,25 @@
+/*
+*
+* name: Humanoid light
+* author: Thomas (tasmo) Friese
+* slug: humanoid-light
+* slug-underscored: humanoid_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f8f8f2;
+    border-color: #0082c9;
+}
+
+button,
+image {
+    color: #60615d;
+}
+
+button:hover {
+    background-color: rgba(7, 7, 8, 0.15);
+}

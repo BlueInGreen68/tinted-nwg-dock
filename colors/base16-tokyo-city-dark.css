@@ -1,0 +1,25 @@
+/*
+*
+* name: Tokyo City Dark
+* author: Michaël Ball
+* slug: tokyo-city-dark
+* slug-underscored: tokyo_city_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #171D23;
+    border-color: #7AA2F7;
+}
+
+button,
+image {
+    color: #B7C5D3;
+}
+
+button:hover {
+    background-color: rgba(251, 251, 253, 0.15);
+}

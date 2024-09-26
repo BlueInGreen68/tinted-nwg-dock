@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Dune Light
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-dune-light
+* slug-underscored: atelier_dune_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fefbec;
+    border-color: #6684e1;
+}
+
+button,
+image {
+    color: #7d7a68;
+}
+
+button:hover {
+    background-color: rgba(32, 32, 29, 0.15);
+}

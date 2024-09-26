@@ -1,0 +1,25 @@
+/*
+*
+* name: Horizon Terminal Light
+* author: Michaël Ball (http://github.com/michael-ball/)
+* slug: horizon-terminal-light
+* slug-underscored: horizon_terminal_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #FDF0ED;
+    border-color: #26BBD9;
+}
+
+button,
+image {
+    color: #948C8A;
+}
+
+button:hover {
+    background-color: rgba(32, 28, 29, 0.15);
+}

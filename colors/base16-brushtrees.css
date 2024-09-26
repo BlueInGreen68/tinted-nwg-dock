@@ -1,0 +1,25 @@
+/*
+*
+* name: Brush Trees
+* author: Abraham White <abelincoln.white@gmail.com>
+* slug: brushtrees
+* slug-underscored: brushtrees
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #E3EFEF;
+    border-color: #868cb3;
+}
+
+button,
+image {
+    color: #8299A1;
+}
+
+button:hover {
+    background-color: rgba(72, 88, 103, 0.15);
+}

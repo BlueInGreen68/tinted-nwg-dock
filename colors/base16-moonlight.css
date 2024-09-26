@@ -1,0 +1,25 @@
+/*
+*
+* name: Moonlight
+* author: Jeremy Swinarton (https://github.com/jswinarton)
+* slug: moonlight
+* slug-underscored: moonlight
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #212337;
+    border-color: #40ffff;
+}
+
+button,
+image {
+    color: #a1abe0;
+}
+
+button:hover {
+    background-color: rgba(239, 67, 250, 0.15);
+}

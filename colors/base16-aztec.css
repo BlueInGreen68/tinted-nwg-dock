@@ -1,0 +1,25 @@
+/*
+*
+* name: Aztec
+* author: TheNeverMan (github.com/TheNeverMan)
+* slug: aztec
+* slug-underscored: aztec
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #101600;
+    border-color: #5B4A9F;
+}
+
+button,
+image {
+    color: #FFD129;
+}
+
+button:hover {
+    background-color: rgba(255, 235, 160, 0.15);
+}

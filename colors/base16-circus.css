@@ -1,0 +1,25 @@
+/*
+*
+* name: Circus
+* author: Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+* slug: circus
+* slug-underscored: circus
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #191919;
+    border-color: #639ee4;
+}
+
+button,
+image {
+    color: #505050;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

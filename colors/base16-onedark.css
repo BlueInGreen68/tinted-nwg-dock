@@ -1,0 +1,25 @@
+/*
+*
+* name: OneDark
+* author: Lalit Magant (http://github.com/tilal6991)
+* slug: onedark
+* slug-underscored: onedark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #282c34;
+    border-color: #61afef;
+}
+
+button,
+image {
+    color: #565c64;
+}
+
+button:hover {
+    background-color: rgba(200, 204, 212, 0.15);
+}

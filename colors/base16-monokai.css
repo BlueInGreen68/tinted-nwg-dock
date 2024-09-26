@@ -1,0 +1,25 @@
+/*
+*
+* name: Monokai
+* author: Wimer Hazenberg (http://www.monokai.nl)
+* slug: monokai
+* slug-underscored: monokai
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #272822;
+    border-color: #66d9ef;
+}
+
+button,
+image {
+    color: #a59f85;
+}
+
+button:hover {
+    background-color: rgba(249, 248, 245, 0.15);
+}

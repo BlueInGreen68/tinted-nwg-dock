@@ -1,0 +1,25 @@
+/*
+*
+* name: vice
+* author: Thomas Leon Highbaugh thighbaugh@zoho.com
+* slug: vice
+* slug-underscored: vice
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #17191E;
+    border-color: #00eaff;
+}
+
+button,
+image {
+    color: #555e70;
+}
+
+button:hover {
+    background-color: rgba(244, 244, 247, 0.15);
+}

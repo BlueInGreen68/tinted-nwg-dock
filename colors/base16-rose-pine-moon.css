@@ -1,0 +1,25 @@
+/*
+*
+* name: Rosé Pine Moon
+* author: Emilia Dunfelt <edun@dunfelt.se>
+* slug: rose-pine-moon
+* slug-underscored: rose_pine_moon
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #232136;
+    border-color: #c4a7e7;
+}
+
+button,
+image {
+    color: #908caa;
+}
+
+button:hover {
+    background-color: rgba(86, 82, 110, 0.15);
+}

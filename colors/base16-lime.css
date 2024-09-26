@@ -1,0 +1,25 @@
+/*
+*
+* name: lime
+* author: limelier
+* slug: lime
+* slug-underscored: lime
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1a1a2f;
+    border-color: #2b926f;
+}
+
+button,
+image {
+    color: #515155;
+}
+
+button:hover {
+    background-color: rgba(255, 248, 225, 0.15);
+}

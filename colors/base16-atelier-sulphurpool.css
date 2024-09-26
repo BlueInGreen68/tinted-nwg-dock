@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Sulphurpool
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-sulphurpool
+* slug-underscored: atelier_sulphurpool
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #202746;
+    border-color: #3d8fd1;
+}
+
+button,
+image {
+    color: #898ea4;
+}
+
+button:hover {
+    background-color: rgba(245, 247, 255, 0.15);
+}

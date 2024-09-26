@@ -1,0 +1,25 @@
+/*
+*
+* name: Outrun Dark
+* author: Hugo Delahousse (http://github.com/hugodelahousse/)
+* slug: outrun-dark
+* slug-underscored: outrun_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #00002A;
+    border-color: #66B0FF;
+}
+
+button,
+image {
+    color: #B0B0DA;
+}
+
+button:hover {
+    background-color: rgba(245, 245, 255, 0.15);
+}

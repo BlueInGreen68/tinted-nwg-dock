@@ -1,0 +1,25 @@
+/*
+*
+* name: ShadeSmear Light
+* author: Kyle Giammarco (http://kyle.giammar.co)
+* slug: shadesmear-light
+* slug-underscored: shadesmear_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #DBDBDB;
+    border-color: #376388;
+}
+
+button,
+image {
+    color: #1C1C1C;
+}
+
+button:hover {
+    background-color: rgba(228, 228, 228, 0.15);
+}

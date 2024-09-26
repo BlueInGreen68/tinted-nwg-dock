@@ -1,0 +1,25 @@
+/*
+*
+* name: Shades of Purple
+* author: Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
+* slug: shades-of-purple
+* slug-underscored: shades_of_purple
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1e1e3f;
+    border-color: #6943ff;
+}
+
+button,
+image {
+    color: #6871ff;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

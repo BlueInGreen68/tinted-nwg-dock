@@ -1,0 +1,25 @@
+/*
+*
+* name: Tokyodark
+* author: Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
+* slug: tokyodark
+* slug-underscored: tokyodark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #11121d;
+    border-color: #7199ee;
+}
+
+button,
+image {
+    color: #4a5057;
+}
+
+button:hover {
+    background-color: rgba(188, 194, 220, 0.15);
+}

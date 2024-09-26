@@ -1,0 +1,25 @@
+/*
+*
+* name: Spaceduck
+* author: Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+* slug: spaceduck
+* slug-underscored: spaceduck
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #16172d;
+    border-color: #7a5ccc;
+}
+
+button,
+image {
+    color: #818596;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

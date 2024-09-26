@@ -1,0 +1,25 @@
+/*
+*
+* name: Default Dark
+* author: Chris Kempson (http://chriskempson.com)
+* slug: default-dark
+* slug-underscored: default_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #181818;
+    border-color: #7cafc2;
+}
+
+button,
+image {
+    color: #b8b8b8;
+}
+
+button:hover {
+    background-color: rgba(248, 248, 248, 0.15);
+}

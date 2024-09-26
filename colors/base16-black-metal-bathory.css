@@ -1,0 +1,25 @@
+/*
+*
+* name: Black Metal (Bathory)
+* author: metalelf0 (https://github.com/metalelf0)
+* slug: black-metal-bathory
+* slug-underscored: black_metal_bathory
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #000000;
+    border-color: #888888;
+}
+
+button,
+image {
+    color: #999999;
+}
+
+button:hover {
+    background-color: rgba(193, 193, 193, 0.15);
+}

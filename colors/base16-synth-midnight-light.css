@@ -1,0 +1,25 @@
+/*
+*
+* name: Synth Midnight Terminal Light
+* author: Michaël Ball (http://github.com/michael-ball/)
+* slug: synth-midnight-light
+* slug-underscored: synth_midnight_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #dddfe0;
+    border-color: #03aeff;
+}
+
+button,
+image {
+    color: #474849;
+}
+
+button:hover {
+    background-color: rgba(5, 6, 8, 0.15);
+}

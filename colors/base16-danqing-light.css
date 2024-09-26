@@ -1,0 +1,25 @@
+/*
+*
+* name: DanQing Light
+* author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+* slug: danqing-light
+* slug-underscored: danqing_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fcfefd;
+    border-color: #B0A4E3;
+}
+
+button,
+image {
+    color: #9da8a3;
+}
+
+button:hover {
+    background-color: rgba(45, 48, 47, 0.15);
+}

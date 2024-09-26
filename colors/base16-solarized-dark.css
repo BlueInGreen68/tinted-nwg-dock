@@ -1,0 +1,25 @@
+/*
+*
+* name: Solarized Dark
+* author: Ethan Schoonover (modified by aramisgithub)
+* slug: solarized-dark
+* slug-underscored: solarized_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #002b36;
+    border-color: #268bd2;
+}
+
+button,
+image {
+    color: #839496;
+}
+
+button:hover {
+    background-color: rgba(253, 246, 227, 0.15);
+}

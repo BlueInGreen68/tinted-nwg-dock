@@ -1,0 +1,25 @@
+/*
+*
+* name: SAGA
+* author: https://github.com/SAGAtheme/SAGA
+* slug: saga
+* slug-underscored: saga
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #05080a;
+    border-color: #c9fff7;
+}
+
+button,
+image {
+    color: #192630;
+}
+
+button:hover {
+    background-color: rgba(204, 211, 254, 0.15);
+}

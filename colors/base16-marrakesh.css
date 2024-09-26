@@ -1,0 +1,25 @@
+/*
+*
+* name: Marrakesh
+* author: Alexandre Gavioli (http://github.com/Alexx2/)
+* slug: marrakesh
+* slug-underscored: marrakesh
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #201602;
+    border-color: #477ca1;
+}
+
+button,
+image {
+    color: #86813b;
+}
+
+button:hover {
+    background-color: rgba(250, 240, 165, 0.15);
+}

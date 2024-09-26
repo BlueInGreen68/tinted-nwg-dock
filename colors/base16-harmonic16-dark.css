@@ -1,0 +1,25 @@
+/*
+*
+* name: Harmonic16 Dark
+* author: Jannik Siebert (https://github.com/janniks)
+* slug: harmonic16-dark
+* slug-underscored: harmonic16_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0b1c2c;
+    border-color: #8b56bf;
+}
+
+button,
+image {
+    color: #aabcce;
+}
+
+button:hover {
+    background-color: rgba(247, 249, 251, 0.15);
+}

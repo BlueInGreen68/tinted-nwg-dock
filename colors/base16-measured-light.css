@@ -1,0 +1,25 @@
+/*
+*
+* name: Measured Light
+* author: Measured (https://measured.co)
+* slug: measured-light
+* slug-underscored: measured_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fdf9f5;
+    border-color: #0158ad;
+}
+
+button,
+image {
+    color: #404040;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.15);
+}

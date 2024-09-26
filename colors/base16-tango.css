@@ -1,0 +1,25 @@
+/*
+*
+* name: Tango
+* author: @Schnouki, based on the Tango Desktop Project
+* slug: tango
+* slug-underscored: tango
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2e3436;
+    border-color: #3465a4;
+}
+
+button,
+image {
+    color: #729fcf;
+}
+
+button:hover {
+    background-color: rgba(238, 238, 236, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Horizon Terminal Dark
+* author: Michaël Ball (http://github.com/michael-ball/)
+* slug: horizon-terminal-dark
+* slug-underscored: horizon_terminal_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1C1E26;
+    border-color: #26BBD9;
+}
+
+button,
+image {
+    color: #9DA0A2;
+}
+
+button:hover {
+    background-color: rgba(227, 230, 238, 0.15);
+}

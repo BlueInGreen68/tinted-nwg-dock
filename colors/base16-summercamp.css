@@ -1,0 +1,25 @@
+/*
+*
+* name: summercamp
+* author: zoe firi (zoefiri.github.io)
+* slug: summercamp
+* slug-underscored: summercamp
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1c1810;
+    border-color: #489bf0;
+}
+
+button,
+image {
+    color: #5f5b45;
+}
+
+button:hover {
+    background-color: rgba(248, 245, 222, 0.15);
+}

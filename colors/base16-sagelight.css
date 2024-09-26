@@ -1,0 +1,25 @@
+/*
+*
+* name: Sagelight
+* author: Carter Veldhuizen
+* slug: sagelight
+* slug-underscored: sagelight
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f8f8f8;
+    border-color: #a0a7d2;
+}
+
+button,
+image {
+    color: #585858;
+}
+
+button:hover {
+    background-color: rgba(24, 24, 24, 0.15);
+}

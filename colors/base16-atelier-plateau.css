@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Plateau
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-plateau
+* slug-underscored: atelier_plateau
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1b1818;
+    border-color: #7272ca;
+}
+
+button,
+image {
+    color: #7e7777;
+}
+
+button:hover {
+    background-color: rgba(244, 236, 236, 0.15);
+}

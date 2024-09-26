@@ -1,0 +1,25 @@
+/*
+*
+* name: eris
+* author: ed (https://codeberg.org/ed)
+* slug: eris
+* slug-underscored: eris
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0a0920;
+    border-color: #258fc4;
+}
+
+button,
+image {
+    color: #4a5293;
+}
+
+button:hover {
+    background-color: rgba(154, 170, 229, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: dirtysea
+* author: Kahlil (Kal) Hodgson
+* slug: dirtysea
+* slug-underscored: dirtysea
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #e0e0e0;
+    border-color: #007300;
+}
+
+button,
+image {
+    color: #202020;
+}
+
+button:hover {
+    background-color: rgba(196, 217, 196, 0.15);
+}

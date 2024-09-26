@@ -1,0 +1,25 @@
+/*
+*
+* name: OceanicNext
+* author: https://github.com/voronianski/oceanic-next-color-scheme
+* slug: oceanicnext
+* slug-underscored: oceanicnext
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1B2B34;
+    border-color: #6699CC;
+}
+
+button,
+image {
+    color: #A7ADBA;
+}
+
+button:hover {
+    background-color: rgba(216, 222, 233, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Vesper
+* author: FormalSnake (https://github.com/formalsnake)
+* slug: vesper
+* slug-underscored: vesper
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #101010;
+    border-color: #8eaaaa;
+}
+
+button,
+image {
+    color: #999999;
+}
+
+button:hover {
+    background-color: rgba(213, 213, 213, 0.15);
+}

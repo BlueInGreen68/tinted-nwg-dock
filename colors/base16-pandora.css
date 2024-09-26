@@ -1,0 +1,25 @@
+/*
+*
+* name: pandora
+* author: Cassandra Fox
+* slug: pandora
+* slug-underscored: pandora
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #131213;
+    border-color: #008080;
+}
+
+button,
+image {
+    color: #9b2a46;
+}
+
+button:hover {
+    background-color: rgba(99, 34, 39, 0.15);
+}

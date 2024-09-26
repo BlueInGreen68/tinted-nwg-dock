@@ -1,0 +1,25 @@
+/*
+*
+* name: Humanoid dark
+* author: Thomas (tasmo) Friese
+* slug: humanoid-dark
+* slug-underscored: humanoid_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #232629;
+    border-color: #00a6fb;
+}
+
+button,
+image {
+    color: #c0c0bd;
+}
+
+button:hover {
+    background-color: rgba(252, 252, 252, 0.15);
+}

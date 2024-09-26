@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Forest
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-forest
+* slug-underscored: atelier_forest
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1b1918;
+    border-color: #407ee7;
+}
+
+button,
+image {
+    color: #9c9491;
+}
+
+button:hover {
+    background-color: rgba(241, 239, 238, 0.15);
+}

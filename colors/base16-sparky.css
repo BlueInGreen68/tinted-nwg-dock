@@ -1,0 +1,25 @@
+/*
+*
+* name: Sparky
+* author: Leila Sother (https://github.com/mixcoac)
+* slug: sparky
+* slug-underscored: sparky
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #072B31;
+    border-color: #4698CB;
+}
+
+button,
+image {
+    color: #00778B;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

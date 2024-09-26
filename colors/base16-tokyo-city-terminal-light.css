@@ -1,0 +1,25 @@
+/*
+*
+* name: Tokyo City Terminal Light
+* author: Michaël Ball
+* slug: tokyo-city-terminal-light
+* slug-underscored: tokyo_city_terminal_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #FBFBFD;
+    border-color: #34548A;
+}
+
+button,
+image {
+    color: #526270;
+}
+
+button:hover {
+    background-color: rgba(23, 29, 35, 0.15);
+}

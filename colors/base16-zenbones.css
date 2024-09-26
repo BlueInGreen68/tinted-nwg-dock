@@ -1,0 +1,25 @@
+/*
+*
+* name: Zenbones
+* author: mcchrish
+* slug: zenbones
+* slug-underscored: zenbones
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #191919;
+    border-color: #CF86C1;
+}
+
+button,
+image {
+    color: #6099C0;
+}
+
+button:hover {
+    background-color: rgba(187, 187, 187, 0.15);
+}

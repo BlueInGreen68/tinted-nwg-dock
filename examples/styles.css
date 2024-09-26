@@ -1,0 +1,59 @@
+/* source: https://github.com/nwg-piotr/nwg-dock/tree/main/config */
+
+window {
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+#box {
+  /* Define attributes of the box surrounding icons here */
+  padding: 5px;
+}
+
+button,
+image {
+  background: none;
+  border-style: none;
+  box-shadow: none;
+}
+
+button {
+  padding: 4px;
+  margin: 0 4px;
+  font-size: 12px;
+}
+
+button:hover {
+  border-radius: 4px;
+}
+
+button:focus {
+  box-shadow: 0 0 2px;
+}
+
+/*
+*
+* name: 3024
+* author: Jan T. Sott (http://github.com/idleberg)
+* slug: 3024
+* slug-underscored: 3024
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+  background-color: #090300;
+  border-color: #01a0e4;
+}
+
+button,
+image {
+  color: #807d7c;
+}
+
+button:hover {
+  background-color: rgba(247, 247, 247, 0.4);
+}

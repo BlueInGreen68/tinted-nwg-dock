@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Lakeside Light
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-lakeside-light
+* slug-underscored: atelier_lakeside_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ebf8ff;
+    border-color: #257fad;
+}
+
+button,
+image {
+    color: #5a7b8c;
+}
+
+button:hover {
+    background-color: rgba(22, 27, 29, 0.15);
+}

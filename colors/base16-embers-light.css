@@ -1,0 +1,25 @@
+/*
+*
+* name: Embers Light
+* author: Jannik Siebert (https://github.com/janniks)
+* slug: embers-light
+* slug-underscored: embers_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #d1d6db;
+    border-color: #82576d;
+}
+
+button,
+image {
+    color: #47505a;
+}
+
+button:hover {
+    background-color: rgba(15, 19, 22, 0.15);
+}

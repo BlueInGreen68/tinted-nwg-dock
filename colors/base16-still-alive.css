@@ -1,0 +1,25 @@
+/*
+*
+* name: Still Alive
+* author: Derrick McKee (derrick.mckee@gmail.com)
+* slug: still-alive
+* slug-underscored: still_alive
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #F0F0F0;
+    border-color: #001878;
+}
+
+button,
+image {
+    color: #F00000;
+}
+
+button:hover {
+    background-color: rgba(48, 168, 96, 0.15);
+}

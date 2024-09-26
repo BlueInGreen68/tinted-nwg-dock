@@ -1,0 +1,25 @@
+/*
+*
+* name: Snazzy
+* author: Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+* slug: snazzy
+* slug-underscored: snazzy
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #282a36;
+    border-color: #57c7ff;
+}
+
+button,
+image {
+    color: #a5a5a9;
+}
+
+button:hover {
+    background-color: rgba(241, 241, 240, 0.15);
+}

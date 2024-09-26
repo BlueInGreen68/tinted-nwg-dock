@@ -1,0 +1,25 @@
+/*
+*
+* name: Helios
+* author: Alex Meyer (https://github.com/reyemxela)
+* slug: helios
+* slug-underscored: helios
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1d2021;
+    border-color: #1e8bac;
+}
+
+button,
+image {
+    color: #cdcdcd;
+}
+
+button:hover {
+    background-color: rgba(229, 229, 229, 0.15);
+}

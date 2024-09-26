@@ -1,0 +1,25 @@
+/*
+*
+* name: Flat
+* author: Chris Kempson (http://chriskempson.com)
+* slug: flat
+* slug-underscored: flat
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2C3E50;
+    border-color: #3498DB;
+}
+
+button,
+image {
+    color: #BDC3C7;
+}
+
+button:hover {
+    background-color: rgba(236, 240, 241, 0.15);
+}

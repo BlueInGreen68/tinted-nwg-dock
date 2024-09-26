@@ -1,0 +1,25 @@
+/*
+*
+* name: vulcan
+* author: Andrey Varfolomeev
+* slug: vulcan
+* slug-underscored: vulcan
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #041523;
+    border-color: #977d7c;
+}
+
+button,
+image {
+    color: #6b6977;
+}
+
+button:hover {
+    background-color: rgba(33, 77, 104, 0.15);
+}

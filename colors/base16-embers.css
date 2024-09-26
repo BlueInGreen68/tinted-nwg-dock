@@ -1,0 +1,25 @@
+/*
+*
+* name: Embers
+* author: Jannik Siebert (https://github.com/janniks)
+* slug: embers
+* slug-underscored: embers
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #16130F;
+    border-color: #6D5782;
+}
+
+button,
+image {
+    color: #8A8075;
+}
+
+button:hover {
+    background-color: rgba(219, 214, 209, 0.15);
+}

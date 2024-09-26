@@ -1,0 +1,25 @@
+/*
+*
+* name: DanQing
+* author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+* slug: danqing
+* slug-underscored: danqing
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2d302f;
+    border-color: #B0A4E3;
+}
+
+button,
+image {
+    color: #cad8d2;
+}
+
+button:hover {
+    background-color: rgba(252, 254, 253, 0.15);
+}

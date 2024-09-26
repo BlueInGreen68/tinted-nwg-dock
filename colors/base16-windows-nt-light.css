@@ -1,0 +1,25 @@
+/*
+*
+* name: Windows NT Light
+* author: Fergus Collins (https://github.com/C-Fergus)
+* slug: windows-nt-light
+* slug-underscored: windows_nt_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #000080;
+}
+
+button,
+image {
+    color: #a0a0a0;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.15);
+}

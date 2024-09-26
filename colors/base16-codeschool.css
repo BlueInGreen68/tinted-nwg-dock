@@ -1,0 +1,25 @@
+/*
+*
+* name: Codeschool
+* author: blockloop
+* slug: codeschool
+* slug-underscored: codeschool
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #232c31;
+    border-color: #484d79;
+}
+
+button,
+image {
+    color: #84898c;
+}
+
+button:hover {
+    background-color: rgba(181, 216, 246, 0.15);
+}

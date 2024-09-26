@@ -1,0 +1,25 @@
+/*
+*
+* name: selenized-dark
+* author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+* slug: selenized-dark
+* slug-underscored: selenized_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #103c48;
+    border-color: #4695f7;
+}
+
+button,
+image {
+    color: #72898f;
+}
+
+button:hover {
+    background-color: rgba(202, 216, 217, 0.15);
+}

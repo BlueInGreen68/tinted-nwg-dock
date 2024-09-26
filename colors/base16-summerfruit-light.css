@@ -1,0 +1,25 @@
+/*
+*
+* name: Summerfruit Light
+* author: Christopher Corley (http://christop.club/)
+* slug: summerfruit-light
+* slug-underscored: summerfruit_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #FFFFFF;
+    border-color: #3777E6;
+}
+
+button,
+image {
+    color: #000000;
+}
+
+button:hover {
+    background-color: rgba(32, 32, 32, 0.15);
+}

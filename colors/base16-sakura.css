@@ -1,0 +1,25 @@
+/*
+*
+* name: Sakura
+* author: Misterio77 (http://github.com/Misterio77)
+* slug: sakura
+* slug-underscored: sakura
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #feedf3;
+    border-color: #006e93;
+}
+
+button,
+image {
+    color: #665055;
+}
+
+button:hover {
+    background-color: rgba(51, 41, 43, 0.15);
+}

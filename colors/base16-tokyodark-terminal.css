@@ -1,0 +1,25 @@
+/*
+*
+* name: Tokyodark Terminal
+* author: Tiagovla (https://github.com/tiagovla/)
+* slug: tokyodark-terminal
+* slug-underscored: tokyodark_terminal
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #11121d;
+    border-color: #7199ee;
+}
+
+button,
+image {
+    color: #4a5057;
+}
+
+button:hover {
+    background-color: rgba(160, 168, 205, 0.15);
+}

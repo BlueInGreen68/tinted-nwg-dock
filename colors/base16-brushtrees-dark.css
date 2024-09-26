@@ -1,0 +1,25 @@
+/*
+*
+* name: Brush Trees Dark
+* author: Abraham White <abelincoln.white@gmail.com>
+* slug: brushtrees-dark
+* slug-underscored: brushtrees_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #485867;
+    border-color: #868cb3;
+}
+
+button,
+image {
+    color: #98AFB5;
+}
+
+button:hover {
+    background-color: rgba(227, 239, 239, 0.15);
+}

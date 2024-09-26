@@ -1,0 +1,25 @@
+/*
+*
+* name: Classic Dark
+* author: Jason Heeris (http://heeris.id.au)
+* slug: classic-dark
+* slug-underscored: classic_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #151515;
+    border-color: #6A9FB5;
+}
+
+button,
+image {
+    color: #B0B0B0;
+}
+
+button:hover {
+    background-color: rgba(245, 245, 245, 0.15);
+}

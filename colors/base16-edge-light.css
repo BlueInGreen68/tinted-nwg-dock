@@ -1,0 +1,25 @@
+/*
+*
+* name: Edge Light
+* author: cjayross (https://github.com/cjayross)
+* slug: edge-light
+* slug-underscored: edge_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fafafa;
+    border-color: #6587bf;
+}
+
+button,
+image {
+    color: #6587bf;
+}
+
+button:hover {
+    background-color: rgba(94, 100, 111, 0.15);
+}

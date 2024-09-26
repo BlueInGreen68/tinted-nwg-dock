@@ -1,0 +1,25 @@
+/*
+*
+* name: Solar Flare
+* author: Chuck Harmston (https://chuck.harmston.ch)
+* slug: solarflare
+* slug-underscored: solarflare
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #18262F;
+    border-color: #33B5E1;
+}
+
+button,
+image {
+    color: #85939E;
+}
+
+button:hover {
+    background-color: rgba(245, 247, 250, 0.15);
+}

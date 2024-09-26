@@ -1,0 +1,25 @@
+/*
+*
+* name: Da One Paper
+* author: NNB (https://github.com/NNBnh)
+* slug: da-one-paper
+* slug-underscored: da_one_paper
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #faf0dc;
+    border-color: #5890f8;
+}
+
+button,
+image {
+    color: #282828;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.15);
+}

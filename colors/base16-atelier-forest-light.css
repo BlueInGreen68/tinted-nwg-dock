@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Forest Light
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-forest-light
+* slug-underscored: atelier_forest_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f1efee;
+    border-color: #407ee7;
+}
+
+button,
+image {
+    color: #766e6b;
+}
+
+button:hover {
+    background-color: rgba(27, 25, 24, 0.15);
+}

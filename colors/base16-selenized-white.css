@@ -1,0 +1,25 @@
+/*
+*
+* name: selenized-white
+* author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+* slug: selenized-white
+* slug-underscored: selenized_white
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #0054cf;
+}
+
+button,
+image {
+    color: #878787;
+}
+
+button:hover {
+    background-color: rgba(40, 40, 40, 0.15);
+}

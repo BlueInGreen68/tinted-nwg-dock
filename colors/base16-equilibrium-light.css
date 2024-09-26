@@ -1,0 +1,25 @@
+/*
+*
+* name: Equilibrium Light
+* author: Carlo Abelli
+* slug: equilibrium-light
+* slug-underscored: equilibrium_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f5f0e7;
+    border-color: #0073b5;
+}
+
+button,
+image {
+    color: #5a5f66;
+}
+
+button:hover {
+    background-color: rgba(24, 28, 34, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Spacemacs
+* author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+* slug: spacemacs
+* slug-underscored: spacemacs
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1f2022;
+    border-color: #4f97d7;
+}
+
+button,
+image {
+    color: #b8b8b8;
+}
+
+button:hover {
+    background-color: rgba(248, 248, 248, 0.15);
+}

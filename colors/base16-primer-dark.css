@@ -1,0 +1,25 @@
+/*
+*
+* name: Primer Dark
+* author: Jimmy Lin
+* slug: primer-dark
+* slug-underscored: primer_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #010409;
+    border-color: #58a6ff;
+}
+
+button,
+image {
+    color: #8b949e;
+}
+
+button:hover {
+    background-color: rgba(240, 246, 252, 0.15);
+}

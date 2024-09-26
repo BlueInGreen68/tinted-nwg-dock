@@ -1,0 +1,25 @@
+/*
+*
+* name: Precious Light White
+* author: 4lex4 <4lex49@zoho.com>
+* slug: precious-light-white
+* slug-underscored: precious_light_white
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #186daa;
+}
+
+button,
+image {
+    color: #636363;
+}
+
+button:hover {
+    background-color: rgba(85, 85, 85, 0.15);
+}

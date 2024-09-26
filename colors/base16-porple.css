@@ -1,0 +1,25 @@
+/*
+*
+* name: Porple
+* author: Niek den Breeje (https://github.com/AuditeMarlow)
+* slug: porple
+* slug-underscored: porple
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #292c36;
+    border-color: #8485ce;
+}
+
+button,
+image {
+    color: #b8b8b8;
+}
+
+button:hover {
+    background-color: rgba(248, 248, 248, 0.15);
+}

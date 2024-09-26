@@ -1,0 +1,25 @@
+/*
+*
+* name: Nebula
+* author: Gabriel Fontes (https://github.com/Misterio77)
+* slug: nebula
+* slug-underscored: nebula
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #22273b;
+    border-color: #4d6bb6;
+}
+
+button,
+image {
+    color: #87888b;
+}
+
+button:hover {
+    background-color: rgba(141, 189, 170, 0.15);
+}

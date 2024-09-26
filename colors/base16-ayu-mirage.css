@@ -1,0 +1,25 @@
+/*
+*
+* name: Ayu Mirage
+* author: Khue Nguyen <Z5483Y@gmail.com>
+* slug: ayu-mirage
+* slug-underscored: ayu_mirage
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #171B24;
+    border-color: #5CCFE6;
+}
+
+button,
+image {
+    color: #8A9199;
+}
+
+button:hover {
+    background-color: rgba(243, 244, 245, 0.15);
+}

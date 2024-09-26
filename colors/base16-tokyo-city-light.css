@@ -1,0 +1,25 @@
+/*
+*
+* name: Tokyo City Light
+* author: Michaël Ball
+* slug: tokyo-city-light
+* slug-underscored: tokyo_city_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #FBFBFD;
+    border-color: #34548a;
+}
+
+button,
+image {
+    color: #4c505e;
+}
+
+button:hover {
+    background-color: rgba(23, 29, 35, 0.15);
+}

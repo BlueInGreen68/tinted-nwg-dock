@@ -1,0 +1,25 @@
+/*
+*
+* name: Framer
+* author: Framer (Maintained by Jesse Hoyos)
+* slug: framer
+* slug-underscored: framer
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #181818;
+    border-color: #20BCFC;
+}
+
+button,
+image {
+    color: #B9B9B9;
+}
+
+button:hover {
+    background-color: rgba(238, 238, 238, 0.15);
+}

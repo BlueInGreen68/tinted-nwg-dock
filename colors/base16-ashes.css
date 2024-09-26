@@ -1,0 +1,25 @@
+/*
+*
+* name: Ashes
+* author: Jannik Siebert (https://github.com/janniks)
+* slug: ashes
+* slug-underscored: ashes
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1C2023;
+    border-color: #AE95C7;
+}
+
+button,
+image {
+    color: #ADB3BA;
+}
+
+button:hover {
+    background-color: rgba(243, 244, 245, 0.15);
+}

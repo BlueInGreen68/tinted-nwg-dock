@@ -1,0 +1,25 @@
+/*
+*
+* name: Tokyo City Terminal Dark
+* author: Michaël Ball
+* slug: tokyo-city-terminal-dark
+* slug-underscored: tokyo_city_terminal_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #171D23;
+    border-color: #539AFC;
+}
+
+button,
+image {
+    color: #B7C5D3;
+}
+
+button:hover {
+    background-color: rgba(251, 251, 253, 0.15);
+}

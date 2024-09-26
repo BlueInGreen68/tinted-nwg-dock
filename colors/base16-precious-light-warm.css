@@ -1,0 +1,25 @@
+/*
+*
+* name: Precious Light Warm
+* author: 4lex4 <4lex49@zoho.com>
+* slug: precious-light-warm
+* slug-underscored: precious_light_warm
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fff5e5;
+    border-color: #246da5;
+}
+
+button,
+image {
+    color: #5d6065;
+}
+
+button:hover {
+    background-color: rgba(78, 83, 89, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: iA Dark
+* author: iA Inc. (modified by aramisgithub)
+* slug: ia-dark
+* slug-underscored: ia_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1a1a1a;
+    border-color: #8eccdd;
+}
+
+button,
+image {
+    color: #b8b8b8;
+}
+
+button:hover {
+    background-color: rgba(248, 248, 248, 0.15);
+}

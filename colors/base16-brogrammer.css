@@ -1,0 +1,25 @@
+/*
+*
+* name: Brogrammer
+* author: Vik Ramanujam (http://github.com/piggyslasher)
+* slug: brogrammer
+* slug-underscored: brogrammer
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1f1f1f;
+    border-color: #5350b9;
+}
+
+button,
+image {
+    color: #2a84d2;
+}
+
+button:hover {
+    background-color: rgba(214, 219, 229, 0.15);
+}

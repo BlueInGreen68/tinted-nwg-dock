@@ -1,0 +1,25 @@
+/*
+*
+* name: PhD
+* author: Hennig Hasemann (http://leetless.de/vim.html)
+* slug: phd
+* slug-underscored: phd
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #061229;
+    border-color: #5299bf;
+}
+
+button,
+image {
+    color: #9a99a3;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

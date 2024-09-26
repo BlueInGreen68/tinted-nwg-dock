@@ -1,0 +1,25 @@
+/*
+*
+* name: Colors
+* author: mrmrs (http://clrs.cc)
+* slug: colors
+* slug-underscored: colors
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #111111;
+    border-color: #0074d9;
+}
+
+button,
+image {
+    color: #999999;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

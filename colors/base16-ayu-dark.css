@@ -1,0 +1,25 @@
+/*
+*
+* name: Ayu Dark
+* author: Khue Nguyen <Z5483Y@gmail.com>
+* slug: ayu-dark
+* slug-underscored: ayu_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0F1419;
+    border-color: #59C2FF;
+}
+
+button,
+image {
+    color: #BFBDB6;
+}
+
+button:hover {
+    background-color: rgba(243, 244, 245, 0.15);
+}

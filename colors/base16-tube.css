@@ -1,0 +1,25 @@
+/*
+*
+* name: London Tube
+* author: Jan T. Sott
+* slug: tube
+* slug-underscored: tube
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #231f20;
+    border-color: #009ddc;
+}
+
+button,
+image {
+    color: #959ca1;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

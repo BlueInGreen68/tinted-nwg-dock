@@ -1,0 +1,25 @@
+/*
+*
+* name: Unikitty Dark
+* author: Josh W Lewis (@joshwlewis)
+* slug: unikitty-dark
+* slug-underscored: unikitty_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2e2a31;
+    border-color: #796af5;
+}
+
+button,
+image {
+    color: #9f9da2;
+}
+
+button:hover {
+    background-color: rgba(245, 244, 247, 0.15);
+}

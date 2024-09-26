@@ -1,0 +1,25 @@
+/*
+*
+* name: IR Black
+* author: Timothée Poisot (http://timotheepoisot.fr)
+* slug: irblack
+* slug-underscored: irblack
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #000000;
+    border-color: #96cbfe;
+}
+
+button,
+image {
+    color: #918f88;
+}
+
+button:hover {
+    background-color: rgba(253, 251, 238, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Savanna Light
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-savanna-light
+* slug-underscored: atelier_savanna_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ecf4ee;
+    border-color: #478c90;
+}
+
+button,
+image {
+    color: #5f6d64;
+}
+
+button:hover {
+    background-color: rgba(23, 28, 25, 0.15);
+}

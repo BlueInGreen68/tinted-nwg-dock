@@ -1,0 +1,25 @@
+/*
+*
+* name: caroline
+* author: ed (https://codeberg.org/ed)
+* slug: caroline
+* slug-underscored: caroline
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1c1213;
+    border-color: #684c59;
+}
+
+button,
+image {
+    color: #8b5d57;
+}
+
+button:hover {
+    background-color: rgba(227, 166, 140, 0.15);
+}

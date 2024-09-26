@@ -1,0 +1,25 @@
+/*
+*
+* name: Mocha
+* author: Chris Kempson (http://chriskempson.com)
+* slug: mocha
+* slug-underscored: mocha
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #3B3228;
+    border-color: #8ab3b5;
+}
+
+button,
+image {
+    color: #b8afad;
+}
+
+button:hover {
+    background-color: rgba(245, 238, 235, 0.15);
+}

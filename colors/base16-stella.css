@@ -1,0 +1,25 @@
+/*
+*
+* name: Stella
+* author: Shrimpram
+* slug: stella
+* slug-underscored: stella
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2B213C;
+    border-color: #A5AAD4;
+}
+
+button,
+image {
+    color: #7F7192;
+}
+
+button:hover {
+    background-color: rgba(235, 220, 255, 0.15);
+}

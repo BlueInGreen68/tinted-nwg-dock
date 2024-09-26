@@ -1,0 +1,25 @@
+/*
+*
+* name: Material
+* author: Nate Peterson
+* slug: material
+* slug-underscored: material
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #263238;
+    border-color: #82AAFF;
+}
+
+button,
+image {
+    color: #B2CCD6;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

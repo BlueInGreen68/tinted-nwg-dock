@@ -1,0 +1,25 @@
+/*
+*
+* name: Silk Dark
+* author: Gabriel Fontes (https://github.com/Misterio77)
+* slug: silk-dark
+* slug-underscored: silk_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0e3c46;
+    border-color: #46bddd;
+}
+
+button,
+image {
+    color: #9DC8CD;
+}
+
+button:hover {
+    background-color: rgba(210, 250, 255, 0.15);
+}

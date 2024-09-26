@@ -1,0 +1,25 @@
+/*
+*
+* name: Ocean
+* author: Chris Kempson (http://chriskempson.com)
+* slug: ocean
+* slug-underscored: ocean
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2b303b;
+    border-color: #8fa1b3;
+}
+
+button,
+image {
+    color: #a7adba;
+}
+
+button:hover {
+    background-color: rgba(239, 241, 245, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Edge Dark
+* author: cjayross (https://github.com/cjayross)
+* slug: edge-dark
+* slug-underscored: edge_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #262729;
+    border-color: #73b3e7;
+}
+
+button,
+image {
+    color: #73b3e7;
+}
+
+button:hover {
+    background-color: rgba(62, 66, 73, 0.15);
+}

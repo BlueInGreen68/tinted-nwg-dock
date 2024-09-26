@@ -1,0 +1,25 @@
+/*
+*
+* name: Eighties
+* author: Chris Kempson (http://chriskempson.com)
+* slug: eighties
+* slug-underscored: eighties
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2d2d2d;
+    border-color: #6699cc;
+}
+
+button,
+image {
+    color: #a09f93;
+}
+
+button:hover {
+    background-color: rgba(242, 240, 236, 0.15);
+}

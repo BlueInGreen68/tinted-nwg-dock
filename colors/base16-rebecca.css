@@ -1,0 +1,25 @@
+/*
+*
+* name: Rebecca
+* author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+* slug: rebecca
+* slug-underscored: rebecca
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #292a44;
+    border-color: #2de0a7;
+}
+
+button,
+image {
+    color: #a0a0c5;
+}
+
+button:hover {
+    background-color: rgba(83, 73, 93, 0.15);
+}

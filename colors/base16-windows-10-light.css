@@ -1,0 +1,25 @@
+/*
+*
+* name: Windows 10 Light
+* author: Fergus Collins (https://github.com/C-Fergus)
+* slug: windows-10-light
+* slug-underscored: windows_10_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f2f2f2;
+    border-color: #0037da;
+}
+
+button,
+image {
+    color: #ababab;
+}
+
+button:hover {
+    background-color: rgba(12, 12, 12, 0.15);
+}

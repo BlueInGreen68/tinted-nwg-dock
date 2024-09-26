@@ -1,0 +1,25 @@
+/*
+*
+* name: Google Light
+* author: Seth Wright (http://sethawright.com)
+* slug: google-light
+* slug-underscored: google_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #3971ED;
+}
+
+button,
+image {
+    color: #969896;
+}
+
+button:hover {
+    background-color: rgba(29, 31, 33, 0.15);
+}

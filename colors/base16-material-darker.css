@@ -1,0 +1,25 @@
+/*
+*
+* name: Material Darker
+* author: Nate Peterson
+* slug: material-darker
+* slug-underscored: material_darker
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #212121;
+    border-color: #82AAFF;
+}
+
+button,
+image {
+    color: #B2CCD6;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

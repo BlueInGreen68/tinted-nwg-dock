@@ -1,0 +1,25 @@
+/*
+*
+* name: Catppuccin Macchiato
+* author: https://github.com/catppuccin/catppuccin
+* slug: catppuccin-macchiato
+* slug-underscored: catppuccin_macchiato
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #24273a;
+    border-color: #8aadf4;
+}
+
+button,
+image {
+    color: #5b6078;
+}
+
+button:hover {
+    background-color: rgba(183, 189, 248, 0.15);
+}

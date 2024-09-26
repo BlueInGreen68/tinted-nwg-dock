@@ -1,0 +1,25 @@
+/*
+*
+* name: PaperColor Dark
+* author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+* slug: papercolor-dark
+* slug-underscored: papercolor_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1c1c1c;
+    border-color: #ff5faf;
+}
+
+button,
+image {
+    color: #5fafd7;
+}
+
+button:hover {
+    background-color: rgba(208, 208, 208, 0.15);
+}

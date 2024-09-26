@@ -1,0 +1,25 @@
+/*
+*
+* name: ShadeSmear Dark
+* author: Kyle Giammarco (http://kyle.giammar.co)
+* slug: shadesmear-dark
+* slug-underscored: shadesmear_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #232323;
+    border-color: #376388;
+}
+
+button,
+image {
+    color: #E4E4E4;
+}
+
+button:hover {
+    background-color: rgba(28, 28, 28, 0.15);
+}

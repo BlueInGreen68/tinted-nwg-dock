@@ -1,0 +1,25 @@
+/*
+*
+* name: iA Light
+* author: iA Inc. (modified by aramisgithub)
+* slug: ia-light
+* slug-underscored: ia_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f6f6f6;
+    border-color: #48bac2;
+}
+
+button,
+image {
+    color: #767676;
+}
+
+button:hover {
+    background-color: rgba(248, 248, 248, 0.15);
+}

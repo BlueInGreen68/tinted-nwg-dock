@@ -1,0 +1,25 @@
+/*
+*
+* name: PaperColor Light
+* author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+* slug: papercolor-light
+* slug-underscored: papercolor_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #eeeeee;
+    border-color: #d75f00;
+}
+
+button,
+image {
+    color: #0087af;
+}
+
+button:hover {
+    background-color: rgba(135, 135, 135, 0.15);
+}

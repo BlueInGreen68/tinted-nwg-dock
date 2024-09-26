@@ -1,0 +1,25 @@
+/*
+*
+* name: Windows 10
+* author: Fergus Collins (https://github.com/C-Fergus)
+* slug: windows-10
+* slug-underscored: windows_10
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0c0c0c;
+    border-color: #3b78ff;
+}
+
+button,
+image {
+    color: #b9b9b9;
+}
+
+button:hover {
+    background-color: rgba(242, 242, 242, 0.15);
+}

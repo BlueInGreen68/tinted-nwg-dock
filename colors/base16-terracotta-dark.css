@@ -1,0 +1,25 @@
+/*
+*
+* name: Terracotta Dark
+* author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+* slug: terracotta-dark
+* slug-underscored: terracotta_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #241d1a;
+    border-color: #b0a4c3;
+}
+
+button,
+image {
+    color: #a78e84;
+}
+
+button:hover {
+    background-color: rgba(220, 210, 206, 0.15);
+}

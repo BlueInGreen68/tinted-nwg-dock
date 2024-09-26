@@ -1,0 +1,25 @@
+/*
+*
+* name: standardized-light
+* author: ali (https://github.com/ali-githb/base16-standardized-scheme)
+* slug: standardized-light
+* slug-underscored: standardized_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #3173c5;
+}
+
+button,
+image {
+    color: #767676;
+}
+
+button:hover {
+    background-color: rgba(34, 34, 34, 0.15);
+}

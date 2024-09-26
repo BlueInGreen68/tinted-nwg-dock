@@ -1,0 +1,25 @@
+/*
+*
+* name: Jabuti
+* author: https://github.com/notusknot
+* slug: jabuti
+* slug-underscored: jabuti
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #292A37;
+    border-color: #3FC6DE;
+}
+
+button,
+image {
+    color: #50526b;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

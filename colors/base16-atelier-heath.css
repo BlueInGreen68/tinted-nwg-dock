@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Heath
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-heath
+* slug-underscored: atelier_heath
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1b181b;
+    border-color: #516aec;
+}
+
+button,
+image {
+    color: #9e8f9e;
+}
+
+button:hover {
+    background-color: rgba(247, 243, 247, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Icy Dark
+* author: icyphox (https://icyphox.ga)
+* slug: icy
+* slug-underscored: icy
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #021012;
+    border-color: #00bcd4;
+}
+
+button,
+image {
+    color: #064048;
+}
+
+button:hover {
+    background-color: rgba(16, 156, 176, 0.15);
+}

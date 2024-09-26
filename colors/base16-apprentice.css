@@ -1,0 +1,25 @@
+/*
+*
+* name: Apprentice
+* author: romainl
+* slug: apprentice
+* slug-underscored: apprentice
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #262626;
+    border-color: #8787AF;
+}
+
+button,
+image {
+    color: #5F87AF;
+}
+
+button:hover {
+    background-color: rgba(108, 108, 108, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Github
+* author: Defman21
+* slug: github
+* slug-underscored: github
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #795da3;
+}
+
+button,
+image {
+    color: #e8e8e8;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

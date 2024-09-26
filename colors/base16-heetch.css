@@ -1,0 +1,25 @@
+/*
+*
+* name: Heetch Dark
+* author: Geoffrey Teale (tealeg@gmail.com)
+* slug: heetch
+* slug-underscored: heetch
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #190134;
+    border-color: #BD0152;
+}
+
+button,
+image {
+    color: #9C92A8;
+}
+
+button:hover {
+    background-color: rgba(254, 255, 255, 0.15);
+}

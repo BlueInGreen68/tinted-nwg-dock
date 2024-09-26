@@ -1,0 +1,25 @@
+/*
+*
+* name: tarot
+* author: ed (https://codeberg.org/ed)
+* slug: tarot
+* slug-underscored: tarot
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0e091d;
+    border-color: #6e6080;
+}
+
+button,
+image {
+    color: #8c406f;
+}
+
+button:hover {
+    background-color: rgba(220, 143, 124, 0.15);
+}

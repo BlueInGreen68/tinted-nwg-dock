@@ -1,0 +1,25 @@
+/*
+*
+* name: Oxocarbon Dark
+* author: shaunsingh/IBM
+* slug: oxocarbon-dark
+* slug-underscored: oxocarbon_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #161616;
+    border-color: #42be65;
+}
+
+button,
+image {
+    color: #dde1e6;
+}
+
+button:hover {
+    background-color: rgba(8, 189, 186, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Darktooth
+* author: Jason Milkins (https://github.com/jasonm23)
+* slug: darktooth
+* slug-underscored: darktooth
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1D2021;
+    border-color: #0D6678;
+}
+
+button,
+image {
+    color: #928374;
+}
+
+button:hover {
+    background-color: rgba(253, 244, 193, 0.15);
+}

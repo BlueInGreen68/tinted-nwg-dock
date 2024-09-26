@@ -1,0 +1,25 @@
+/*
+*
+* name: Qualia
+* author: isaacwhanson
+* slug: qualia
+* slug-underscored: qualia
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #101010;
+    border-color: #50CACD;
+}
+
+button,
+image {
+    color: #808080;
+}
+
+button:hover {
+    background-color: rgba(69, 69, 69, 0.15);
+}

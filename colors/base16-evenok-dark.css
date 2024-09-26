@@ -1,0 +1,25 @@
+/*
+*
+* name: Evenok Dark
+* author: Mekeor Melire
+* slug: evenok-dark
+* slug-underscored: evenok_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #000000;
+    border-color: #00aff2;
+}
+
+button,
+image {
+    color: #b0b0b0;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

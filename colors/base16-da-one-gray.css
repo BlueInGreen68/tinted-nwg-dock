@@ -1,0 +1,25 @@
+/*
+*
+* name: Da One Gray
+* author: NNB (https://github.com/NNBnh)
+* slug: da-one-gray
+* slug-underscored: da_one_gray
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #181818;
+    border-color: #6bb8ff;
+}
+
+button,
+image {
+    color: #c8c8c8;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

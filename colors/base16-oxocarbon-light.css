@@ -1,0 +1,25 @@
+/*
+*
+* name: Oxocarbon Light
+* author: shaunsingh/IBM
+* slug: oxocarbon-light
+* slug-underscored: oxocarbon_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f2f4f8;
+    border-color: #42be65;
+}
+
+button,
+image {
+    color: #262626;
+}
+
+button:hover {
+    background-color: rgba(8, 189, 186, 0.15);
+}

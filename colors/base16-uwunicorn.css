@@ -1,0 +1,25 @@
+/*
+*
+* name: UwUnicorn
+* author: Fernando Marques (https://github.com/RakkiUwU) and Gabriel Fontes (https://github.com/Misterio77)
+* slug: uwunicorn
+* slug-underscored: uwunicorn
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #241b26;
+    border-color: #6a9eb5;
+}
+
+button,
+image {
+    color: #7e5f83;
+}
+
+button:hover {
+    background-color: rgba(228, 204, 208, 0.15);
+}

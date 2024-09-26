@@ -1,0 +1,25 @@
+/*
+*
+* name: Windows 95
+* author: Fergus Collins (https://github.com/C-Fergus)
+* slug: windows-95
+* slug-underscored: windows_95
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #000000;
+    border-color: #5454fc;
+}
+
+button,
+image {
+    color: #7e7e7e;
+}
+
+button:hover {
+    background-color: rgba(252, 252, 252, 0.15);
+}

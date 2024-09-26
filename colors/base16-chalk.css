@@ -1,0 +1,25 @@
+/*
+*
+* name: Chalk
+* author: Chris Kempson (http://chriskempson.com)
+* slug: chalk
+* slug-underscored: chalk
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #151515;
+    border-color: #6fc2ef;
+}
+
+button,
+image {
+    color: #b0b0b0;
+}
+
+button:hover {
+    background-color: rgba(245, 245, 245, 0.15);
+}

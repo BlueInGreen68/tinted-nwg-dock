@@ -1,0 +1,25 @@
+/*
+*
+* name: Decaf
+* author: Alex Mirrington (https://github.com/alexmirrington)
+* slug: decaf
+* slug-underscored: decaf
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2d2d2d;
+    border-color: #90bee1;
+}
+
+button,
+image {
+    color: #b4b7b4;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

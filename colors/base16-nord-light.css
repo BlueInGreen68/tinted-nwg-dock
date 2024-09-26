@@ -1,0 +1,25 @@
+/*
+*
+* name: Nord Light
+* author: threddast, based on fuxialexander's doom-nord-light-theme (Doom Emacs)
+* slug: nord-light
+* slug-underscored: nord_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #e5e9f0;
+    border-color: #3b6ea8;
+}
+
+button,
+image {
+    color: #60728c;
+}
+
+button:hover {
+    background-color: rgba(41, 131, 141, 0.15);
+}

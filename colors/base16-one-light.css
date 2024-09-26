@@ -1,0 +1,25 @@
+/*
+*
+* name: One Light
+* author: Daniel Pfeifer (http://github.com/purpleKarrot)
+* slug: one-light
+* slug-underscored: one_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fafafa;
+    border-color: #4078f2;
+}
+
+button,
+image {
+    color: #696c77;
+}
+
+button:hover {
+    background-color: rgba(9, 10, 11, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Green Screen
+* author: Chris Kempson (http://chriskempson.com)
+* slug: greenscreen
+* slug-underscored: greenscreen
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #001100;
+    border-color: #009900;
+}
+
+button,
+image {
+    color: #009900;
+}
+
+button:hover {
+    background-color: rgba(0, 255, 0, 0.15);
+}

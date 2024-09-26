@@ -1,0 +1,25 @@
+/*
+*
+* name: Kanagawa
+* author: Tommaso Laurenzi (https://github.com/rebelot)
+* slug: kanagawa
+* slug-underscored: kanagawa
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1F1F28;
+    border-color: #7E9CD8;
+}
+
+button,
+image {
+    color: #727169;
+}
+
+button:hover {
+    background-color: rgba(113, 124, 124, 0.15);
+}

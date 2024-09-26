@@ -1,0 +1,25 @@
+/*
+*
+* name: Everforest Dark Hard
+* author: Sainnhe Park (https://github.com/sainnhe)
+* slug: everforest-dark-hard
+* slug-underscored: everforest_dark_hard
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #272e33;
+    border-color: #7fbbb3;
+}
+
+button,
+image {
+    color: #9da9a0;
+}
+
+button:hover {
+    background-color: rgba(255, 251, 239, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: XCode Dusk
+* author: Elsa Gonsiorowski (https://github.com/gonsie)
+* slug: xcode-dusk
+* slug-underscored: xcode_dusk
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #282B35;
+    border-color: #790EAD;
+}
+
+button,
+image {
+    color: #7E8086;
+}
+
+button:hover {
+    background-color: rgba(190, 191, 194, 0.15);
+}

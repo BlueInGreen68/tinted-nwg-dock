@@ -1,0 +1,25 @@
+/*
+*
+* name: Terracotta
+* author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+* slug: terracotta
+* slug-underscored: terracotta
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #efeae8;
+    border-color: #625574;
+}
+
+button,
+image {
+    color: #59453d;
+}
+
+button:hover {
+    background-color: rgba(36, 28, 25, 0.15);
+}

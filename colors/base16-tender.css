@@ -1,0 +1,25 @@
+/*
+*
+* name: tender
+* author: Jacobo Tabernero (https://github/com/jacoborus/tender.vim)
+* slug: tender
+* slug-underscored: tender
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #282828;
+    border-color: #b3deef;
+}
+
+button,
+image {
+    color: #b8b8b8;
+}
+
+button:hover {
+    background-color: rgba(254, 255, 255, 0.15);
+}

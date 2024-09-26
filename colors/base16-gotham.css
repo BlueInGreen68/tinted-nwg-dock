@@ -1,0 +1,25 @@
+/*
+*
+* name: Gotham
+* author: Andrea Leopardi (arranged by Brett Jones)
+* slug: gotham
+* slug-underscored: gotham
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0c1014;
+    border-color: #195466;
+}
+
+button,
+image {
+    color: #245361;
+}
+
+button:hover {
+    background-color: rgba(211, 235, 233, 0.15);
+}

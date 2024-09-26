@@ -1,0 +1,25 @@
+/*
+*
+* name: Da One Ocean
+* author: NNB (https://github.com/NNBnh)
+* slug: da-one-ocean
+* slug-underscored: da_one_ocean
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #171726;
+    border-color: #6bb8ff;
+}
+
+button,
+image {
+    color: #c8c8c8;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

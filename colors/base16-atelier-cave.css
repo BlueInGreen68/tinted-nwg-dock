@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Cave
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-cave
+* slug-underscored: atelier_cave
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #19171c;
+    border-color: #576ddb;
+}
+
+button,
+image {
+    color: #7e7887;
+}
+
+button:hover {
+    background-color: rgba(239, 236, 244, 0.15);
+}

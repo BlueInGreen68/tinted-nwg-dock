@@ -1,0 +1,25 @@
+/*
+*
+* name: pinky
+* author: Benjamin (https://github.com/b3nj5m1n)
+* slug: pinky
+* slug-underscored: pinky
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #171517;
+    border-color: #00ffff;
+}
+
+button,
+image {
+    color: #e7dbdb;
+}
+
+button:hover {
+    background-color: rgba(247, 243, 247, 0.15);
+}

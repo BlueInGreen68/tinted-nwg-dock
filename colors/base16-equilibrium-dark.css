@@ -1,0 +1,25 @@
+/*
+*
+* name: Equilibrium Dark
+* author: Carlo Abelli
+* slug: equilibrium-dark
+* slug-underscored: equilibrium_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0c1118;
+    border-color: #008dd1;
+}
+
+button,
+image {
+    color: #949088;
+}
+
+button:hover {
+    background-color: rgba(231, 226, 217, 0.15);
+}

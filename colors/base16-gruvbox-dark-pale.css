@@ -1,0 +1,25 @@
+/*
+*
+* name: Gruvbox dark, pale
+* author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+* slug: gruvbox-dark-pale
+* slug-underscored: gruvbox_dark_pale
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #262626;
+    border-color: #83adad;
+}
+
+button,
+image {
+    color: #949494;
+}
+
+button:hover {
+    background-color: rgba(235, 219, 178, 0.15);
+}

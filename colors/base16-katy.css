@@ -1,0 +1,25 @@
+/*
+*
+* name: Katy
+* author: George Essig (https://github.com/gessig)
+* slug: katy
+* slug-underscored: katy
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #292d3e;
+    border-color: #82aaff;
+}
+
+button,
+image {
+    color: #8796b0;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

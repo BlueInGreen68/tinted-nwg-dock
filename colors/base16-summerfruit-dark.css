@@ -1,0 +1,25 @@
+/*
+*
+* name: Summerfruit Dark
+* author: Christopher Corley (http://christop.club/)
+* slug: summerfruit-dark
+* slug-underscored: summerfruit_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #151515;
+    border-color: #3777E6;
+}
+
+button,
+image {
+    color: #B0B0B0;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

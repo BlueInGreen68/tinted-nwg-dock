@@ -1,0 +1,25 @@
+/*
+*
+* name: Precious Dark Eleven
+* author: 4lex4 <4lex49@zoho.com>
+* slug: precious-dark-eleven
+* slug-underscored: precious_dark_eleven
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1c1e20;
+    border-color: #68b0ee;
+}
+
+button,
+image {
+    color: #a8a8a7;
+}
+
+button:hover {
+    background-color: rgba(184, 183, 182, 0.15);
+}

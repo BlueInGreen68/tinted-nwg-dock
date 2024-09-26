@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Seaside
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-seaside
+* slug-underscored: atelier_seaside
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #131513;
+    border-color: #3d62f5;
+}
+
+button,
+image {
+    color: #809980;
+}
+
+button:hover {
+    background-color: rgba(244, 251, 244, 0.15);
+}

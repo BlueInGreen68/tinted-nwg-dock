@@ -1,0 +1,25 @@
+/*
+*
+* name: Seti UI
+* author: 
+* slug: seti
+* slug-underscored: seti
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #151718;
+    border-color: #55b5db;
+}
+
+button,
+image {
+    color: #43a5d5;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

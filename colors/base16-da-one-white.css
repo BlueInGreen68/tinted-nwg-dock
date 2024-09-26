@@ -1,0 +1,25 @@
+/*
+*
+* name: Da One White
+* author: NNB (https://github.com/NNBnh)
+* slug: da-one-white
+* slug-underscored: da_one_white
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #5890f8;
+}
+
+button,
+image {
+    color: #282828;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.15);
+}

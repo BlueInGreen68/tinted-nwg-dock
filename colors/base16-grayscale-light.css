@@ -1,0 +1,25 @@
+/*
+*
+* name: Grayscale Light
+* author: Alexandre Gavioli (https://github.com/Alexx2/)
+* slug: grayscale-light
+* slug-underscored: grayscale_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f7f7f7;
+    border-color: #686868;
+}
+
+button,
+image {
+    color: #525252;
+}
+
+button:hover {
+    background-color: rgba(16, 16, 16, 0.15);
+}

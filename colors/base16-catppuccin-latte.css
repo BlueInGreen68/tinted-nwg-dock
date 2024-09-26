@@ -1,0 +1,25 @@
+/*
+*
+* name: Catppuccin Latte
+* author: https://github.com/catppuccin/catppuccin
+* slug: catppuccin-latte
+* slug-underscored: catppuccin_latte
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #eff1f5;
+    border-color: #1e66f5;
+}
+
+button,
+image {
+    color: #acb0be;
+}
+
+button:hover {
+    background-color: rgba(114, 135, 253, 0.15);
+}

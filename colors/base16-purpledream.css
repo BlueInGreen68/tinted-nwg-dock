@@ -1,0 +1,25 @@
+/*
+*
+* name: Purpledream
+* author: malet
+* slug: purpledream
+* slug-underscored: purpledream
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #100510;
+    border-color: #00A0F0;
+}
+
+button,
+image {
+    color: #bbb0bb;
+}
+
+button:hover {
+    background-color: rgba(255, 240, 255, 0.15);
+}

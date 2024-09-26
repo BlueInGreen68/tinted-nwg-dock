@@ -1,0 +1,25 @@
+/*
+*
+* name: Grayscale Dark
+* author: Alexandre Gavioli (https://github.com/Alexx2/)
+* slug: grayscale-dark
+* slug-underscored: grayscale_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #101010;
+    border-color: #686868;
+}
+
+button,
+image {
+    color: #ababab;
+}
+
+button:hover {
+    background-color: rgba(247, 247, 247, 0.15);
+}

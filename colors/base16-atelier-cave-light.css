@@ -1,0 +1,25 @@
+/*
+*
+* name: Atelier Cave Light
+* author: Bram de Haan (http://atelierbramdehaan.nl)
+* slug: atelier-cave-light
+* slug-underscored: atelier_cave_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #efecf4;
+    border-color: #576ddb;
+}
+
+button,
+image {
+    color: #655f6d;
+}
+
+button:hover {
+    background-color: rgba(25, 23, 28, 0.15);
+}

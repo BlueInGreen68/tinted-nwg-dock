@@ -1,0 +1,25 @@
+/*
+*
+* name: Twilight
+* author: David Hart (https://github.com/hartbit)
+* slug: twilight
+* slug-underscored: twilight
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1e1e1e;
+    border-color: #7587a6;
+}
+
+button,
+image {
+    color: #838184;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Tomorrow Night
+* author: Chris Kempson (http://chriskempson.com)
+* slug: tomorrow-night
+* slug-underscored: tomorrow_night
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1d1f21;
+    border-color: #81a2be;
+}
+
+button,
+image {
+    color: #b4b7b4;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

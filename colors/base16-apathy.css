@@ -1,0 +1,25 @@
+/*
+*
+* name: Apathy
+* author: Jannik Siebert (https://github.com/janniks)
+* slug: apathy
+* slug-underscored: apathy
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #031A16;
+    border-color: #96883E;
+}
+
+button,
+image {
+    color: #5F9C92;
+}
+
+button:hover {
+    background-color: rgba(210, 231, 228, 0.15);
+}

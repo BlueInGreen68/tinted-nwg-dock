@@ -1,0 +1,25 @@
+/*
+*
+* name: emil
+* author: limelier
+* slug: emil
+* slug-underscored: emil
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #efefef;
+    border-color: #471397;
+}
+
+button,
+image {
+    color: #505063;
+}
+
+button:hover {
+    background-color: rgba(26, 26, 47, 0.15);
+}

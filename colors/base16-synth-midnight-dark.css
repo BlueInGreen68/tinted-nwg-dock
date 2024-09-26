@@ -1,0 +1,25 @@
+/*
+*
+* name: Synth Midnight Terminal Dark
+* author: Michaël Ball (http://github.com/michael-ball/)
+* slug: synth-midnight-dark
+* slug-underscored: synth_midnight_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #050608;
+    border-color: #03aeff;
+}
+
+button,
+image {
+    color: #a3a5a6;
+}
+
+button:hover {
+    background-color: rgba(221, 223, 224, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Cupertino
+* author: Defman21
+* slug: cupertino
+* slug-underscored: cupertino
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #0000ff;
+}
+
+button,
+image {
+    color: #808080;
+}
+
+button:hover {
+    background-color: rgba(94, 94, 94, 0.15);
+}

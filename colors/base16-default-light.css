@@ -1,0 +1,25 @@
+/*
+*
+* name: Default Light
+* author: Chris Kempson (http://chriskempson.com)
+* slug: default-light
+* slug-underscored: default_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f8f8f8;
+    border-color: #7cafc2;
+}
+
+button,
+image {
+    color: #585858;
+}
+
+button:hover {
+    background-color: rgba(24, 24, 24, 0.15);
+}

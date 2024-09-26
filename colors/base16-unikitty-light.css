@@ -1,0 +1,25 @@
+/*
+*
+* name: Unikitty Light
+* author: Josh W Lewis (@joshwlewis)
+* slug: unikitty-light
+* slug-underscored: unikitty_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #ffffff;
+    border-color: #775dff;
+}
+
+button,
+image {
+    color: #89878b;
+}
+
+button:hover {
+    background-color: rgba(50, 45, 52, 0.15);
+}

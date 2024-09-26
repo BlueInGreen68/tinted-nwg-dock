@@ -1,0 +1,25 @@
+/*
+*
+* name: Blue Forest
+* author: alonsodomin (https://github.com/alonsodomin)
+* slug: blueforest
+* slug-underscored: blueforest
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #141F2E;
+    border-color: #a2cff5;
+}
+
+button,
+image {
+    color: #1e5c1e;
+}
+
+button:hover {
+    background-color: rgba(55, 87, 128, 0.15);
+}

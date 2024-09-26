@@ -1,0 +1,25 @@
+/*
+*
+* name: Catppuccin Mocha
+* author: https://github.com/catppuccin/catppuccin
+* slug: catppuccin-mocha
+* slug-underscored: catppuccin_mocha
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1e1e2e;
+    border-color: #89b4fa;
+}
+
+button,
+image {
+    color: #585b70;
+}
+
+button:hover {
+    background-color: rgba(180, 190, 254, 0.15);
+}

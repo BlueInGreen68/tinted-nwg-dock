@@ -1,0 +1,25 @@
+/*
+*
+* name: Gruvbox Material Dark, Soft
+* author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+* slug: gruvbox-material-dark-soft
+* slug-underscored: gruvbox_material_dark_soft
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #32302f;
+    border-color: #7daea3;
+}
+
+button,
+image {
+    color: #bdae93;
+}
+
+button:hover {
+    background-color: rgba(251, 241, 199, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Ayu Light
+* author: Khue Nguyen <Z5483Y@gmail.com>
+* slug: ayu-light
+* slug-underscored: ayu_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #FAFAFA;
+    border-color: #36A3D9;
+}
+
+button,
+image {
+    color: #828C99;
+}
+
+button:hover {
+    background-color: rgba(26, 31, 41, 0.15);
+}

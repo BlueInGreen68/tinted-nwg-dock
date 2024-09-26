@@ -1,0 +1,25 @@
+/*
+*
+* name: darkmoss
+* author: Gabriel Avanzi (https://github.com/avanzzzi)
+* slug: darkmoss
+* slug-underscored: darkmoss
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #171e1f;
+    border-color: #498091;
+}
+
+button,
+image {
+    color: #818f80;
+}
+
+button:hover {
+    background-color: rgba(225, 234, 239, 0.15);
+}

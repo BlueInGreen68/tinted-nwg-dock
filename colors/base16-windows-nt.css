@@ -1,0 +1,25 @@
+/*
+*
+* name: Windows NT
+* author: Fergus Collins (https://github.com/C-Fergus)
+* slug: windows-nt
+* slug-underscored: windows_nt
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #000000;
+    border-color: #0000ff;
+}
+
+button,
+image {
+    color: #a1a1a1;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

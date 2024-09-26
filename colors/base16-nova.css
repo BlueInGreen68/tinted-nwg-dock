@@ -1,0 +1,25 @@
+/*
+*
+* name: Nova
+* author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+* slug: nova
+* slug-underscored: nova
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #3C4C55;
+    border-color: #83AFE5;
+}
+
+button,
+image {
+    color: #899BA6;
+}
+
+button:hover {
+    background-color: rgba(85, 104, 115, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Zenburn
+* author: elnawe
+* slug: zenburn
+* slug-underscored: zenburn
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #383838;
+    border-color: #7cb8bb;
+}
+
+button,
+image {
+    color: #808080;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

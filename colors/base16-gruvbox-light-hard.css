@@ -1,0 +1,25 @@
+/*
+*
+* name: Gruvbox light, hard
+* author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+* slug: gruvbox-light-hard
+* slug-underscored: gruvbox_light_hard
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f9f5d7;
+    border-color: #076678;
+}
+
+button,
+image {
+    color: #665c54;
+}
+
+button:hover {
+    background-color: rgba(40, 40, 40, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Mexico Light
+* author: Sheldon Johnson
+* slug: mexico-light
+* slug-underscored: mexico_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f8f8f8;
+    border-color: #7cafc2;
+}
+
+button,
+image {
+    color: #585858;
+}
+
+button:hover {
+    background-color: rgba(24, 24, 24, 0.15);
+}

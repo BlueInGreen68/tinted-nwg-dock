@@ -1,0 +1,25 @@
+/*
+*
+* name: Paraiso
+* author: Jan T. Sott
+* slug: paraiso
+* slug-underscored: paraiso
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2f1e2e;
+    border-color: #06b6ef;
+}
+
+button,
+image {
+    color: #8d8687;
+}
+
+button:hover {
+    background-color: rgba(231, 233, 219, 0.15);
+}

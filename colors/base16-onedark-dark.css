@@ -1,0 +1,25 @@
+/*
+*
+* name: OneDark Dark
+* author: olimorris (https://github.com/olimorris)
+* slug: onedark-dark
+* slug-underscored: onedark_dark
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #000000;
+    border-color: #61afef;
+}
+
+button,
+image {
+    color: #565c64;
+}
+
+button:hover {
+    background-color: rgba(200, 204, 212, 0.15);
+}

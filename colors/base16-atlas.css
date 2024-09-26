@@ -1,0 +1,25 @@
+/*
+*
+* name: Atlas
+* author: Alex Lende (https://ajlende.com)
+* slug: atlas
+* slug-underscored: atlas
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #002635;
+    border-color: #14747e;
+}
+
+button,
+image {
+    color: #869696;
+}
+
+button:hover {
+    background-color: rgba(250, 250, 248, 0.15);
+}

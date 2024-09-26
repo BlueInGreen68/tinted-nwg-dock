@@ -1,0 +1,25 @@
+/*
+*
+* name: Windows 95 Light
+* author: Fergus Collins (https://github.com/C-Fergus)
+* slug: windows-95-light
+* slug-underscored: windows_95_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #fcfcfc;
+    border-color: #0000a8;
+}
+
+button,
+image {
+    color: #7e7e7e;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.15);
+}

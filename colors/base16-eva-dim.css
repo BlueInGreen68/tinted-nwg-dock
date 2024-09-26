@@ -1,0 +1,25 @@
+/*
+*
+* name: Eva Dim
+* author: kjakapat (https://github.com/kjakapat)
+* slug: eva-dim
+* slug-underscored: eva_dim
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #2a3b4d;
+    border-color: #1ae1dc;
+}
+
+button,
+image {
+    color: #7e90a3;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

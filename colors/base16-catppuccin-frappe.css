@@ -1,0 +1,25 @@
+/*
+*
+* name: Catppuccin Frappe
+* author: https://github.com/catppuccin/catppuccin
+* slug: catppuccin-frappe
+* slug-underscored: catppuccin_frappe
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #303446;
+    border-color: #8caaee;
+}
+
+button,
+image {
+    color: #626880;
+}
+
+button:hover {
+    background-color: rgba(186, 187, 241, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Hopscotch
+* author: Jan T. Sott
+* slug: hopscotch
+* slug-underscored: hopscotch
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #322931;
+    border-color: #1290bf;
+}
+
+button,
+image {
+    color: #989498;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}

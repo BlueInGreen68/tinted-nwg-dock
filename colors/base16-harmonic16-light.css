@@ -1,0 +1,25 @@
+/*
+*
+* name: Harmonic16 Light
+* author: Jannik Siebert (https://github.com/janniks)
+* slug: harmonic16-light
+* slug-underscored: harmonic16_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #f7f9fb;
+    border-color: #8b56bf;
+}
+
+button,
+image {
+    color: #627e99;
+}
+
+button:hover {
+    background-color: rgba(11, 28, 44, 0.15);
+}

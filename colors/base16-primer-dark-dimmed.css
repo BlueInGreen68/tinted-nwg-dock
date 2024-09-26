@@ -1,0 +1,25 @@
+/*
+*
+* name: Primer Dark Dimmed
+* author: Jimmy Lin
+* slug: primer-dark-dimmed
+* slug-underscored: primer_dark_dimmed
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #1c2128;
+    border-color: #539bf5;
+}
+
+button,
+image {
+    color: #768390;
+}
+
+button:hover {
+    background-color: rgba(205, 217, 229, 0.15);
+}

@@ -1,0 +1,25 @@
+/*
+*
+* name: Mountain
+* author: gnsfujiwara (https://github.com/gnsfujiwara)
+* slug: mountain
+* slug-underscored: mountain
+* system: base16
+* variant: dark
+* is-dark-variant: true
+*
+*/
+
+window {
+    background-color: #0f0f0f;
+    border-color: #8f8aac;
+}
+
+button,
+image {
+    color: #ac8a8c;
+}
+
+button:hover {
+    background-color: rgba(240, 240, 240, 0.15);
+}

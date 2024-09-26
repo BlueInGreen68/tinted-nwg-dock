@@ -1,0 +1,25 @@
+/*
+*
+* name: Classic Light
+* author: Jason Heeris (http://heeris.id.au)
+* slug: classic-light
+* slug-underscored: classic_light
+* system: base16
+* variant: light
+* is-light-variant: true
+*
+*/
+
+window {
+    background-color: #F5F5F5;
+    border-color: #6A9FB5;
+}
+
+button,
+image {
+    color: #505050;
+}
+
+button:hover {
+    background-color: rgba(21, 21, 21, 0.15);
+}
