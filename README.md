@@ -36,6 +36,7 @@ window {
   border-width: 3px;
   border-style: solid;
   border-radius: 10px;
+  transition: all 200ms ease, opacity 200ms ease;
 }
 
 #box {
@@ -64,6 +65,10 @@ button:focus {
   box-shadow: 0 0 2px;
 }
 ```
+
+> **Note** 
+>
+> `transition` property support only: [nwg-dock-hypreland](https://github.com/jasonherald/mac-doc-hyprland?tab=readme-ov-file#theming), [nwg-dock-drawer](https://github.com/jasonherald/mac-doc-hyprland?tab=readme-ov-file#theming) written in Rust.
 
 ### Manual
 
